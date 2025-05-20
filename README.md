@@ -1,2 +1,2 @@
 # friendly-system
-Learnin to conect repositories 
+Learningto conect repositories 
